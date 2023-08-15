@@ -1,0 +1,4 @@
+fastapi==0.101.1
+pydantic==2.1.1
+Requests==2.31.0
+streamlit==1.25.0
